@@ -1,5 +1,5 @@
 ### Hi there 👋
-[1. opentutorials :: git 사용법공부] --> [2. python-test] --> [3.python-coding (파이썬)] --> [4.java-test] --> [3.python-coding (파이썬과 자바)]
+[1. opentutorials :: git 사용법공부] --> [2. python-test :: 파이썬문법 코드 테스트용 저장소 입니다] --> [3.python-coding (파이썬)] --> [4.java-test] --> [3.python-coding (파이썬과 자바)]
 <!--
 **3baaa/3baaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
