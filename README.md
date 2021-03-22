@@ -1,7 +1,7 @@
 ### Hi there 👋
-[1. opentutorials :: git 사용법공부 ] --> [2. python-test :: 파이썬 사용법 공부 ] --> [3.python-coding :: 코딩테스트 공부 with 파이썬 ] --> [4.java-test :: 자바 사용법 공부 ] + [3.python-coding :: 코딩테스트 공부 with 파이썬 ] --> [3.python-coding :: 코딩테스트 공부 with 파이썬과 자바(추가로 자바 사용법공부) ]
+[1. opentutorials :: git 사용법공부 ] --> [2. python-test :: 파이썬 사용법 공부 ] --> [3.python-coding :: 코딩테스트 공부 with 파이썬 ] --> [4.java-test :: 자바 사용법 공부 ] + [3.python-coding :: 코딩테스트 공부 with 파이썬 ] --> [3.python-coding :: 코딩테스트 공부 with 파이썬과 자바(추가로 자바 사용법공부) ] --> [3.python-coding :: 코딩테스트 공부 with 파이썬과 자바(추가로 자바 사용법공부) ] + [5.Jsp-and-Servlet :: Jsp와 Servlet 공부]
 
-- 🌱 I’m currently learning ... [3.python-coding :: 코딩테스트 공부 with 파이썬과 자바(추가로 자바 사용법공부) ]
+- 🌱 I’m currently learning ... [3.python-coding :: 코딩테스트 공부 with 파이썬과 자바(추가로 자바 사용법공부) ] + [5.Jsp-and-Servlet :: Jsp와 Servlet 공부]
 - 💬 I want to be a backend developer. [저는 백엔드 개발자가 되고싶습니다]
 <!--
 **3baaa/3baaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
