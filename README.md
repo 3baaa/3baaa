@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 안녕하세요 👋
 <ol type="1">
 <li>[1. opentutorials :: git 사용법공부 ]<br>
 <li>[2. python-test :: 파이썬 사용법 공부 ]<br>
