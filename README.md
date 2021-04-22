@@ -1,12 +1,4 @@
 ### Hi there 안녕하세요 😄 <!--👋-->
-<ol type="1">
-<li>[1. opentutorials :: git 사용법공부 ]<br>
-<li>[2. python-test :: 파이썬 사용법 공부 ]<br>
-<li>[3.python-coding :: 코딩테스트 공부 with 파이썬 ]<br>
-<li>[3.python-coding :: 코딩테스트 공부 with 파이썬 ] + [4.java-test :: 자바 사용법 공부 ]<br>
-<li>[3.python-coding :: 코딩테스트 공부 with 파이썬과 자바(추가로 자바 사용법공부) ]<br>
-<li>[3.python-coding :: 코딩테스트 공부 with 파이썬과 자바(추가로 자바 사용법공부) ] + [5.Jsp-and-Servlet :: Jsp와 Servlet 공부]
-</ol>
 
 <ol type="1">
 <li>[1. opentutorials :: git 사용법공부 ]
