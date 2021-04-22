@@ -9,16 +9,16 @@
     <li>[3.python-coding :: 코딩테스트 공부 with 파이썬 ]
     <li>[4.java-test :: 자바 사용법 공부 ]
   </ul>
-<li>[3.python-coding :: 코딩테스트 공부 with 파이썬과 자바(추가로 자바 사용법공부) ]
+<li>[3.python-coding :: 코딩테스트 공부 with 파이썬 + 자바(추가로 자바 사용법공부) ]
 <li>
   <ul>
-    <li>[3.python-coding :: 코딩테스트 공부 with 파이썬과 자바(추가로 자바 사용법공부) ]
+    <li>[3.python-coding :: 코딩테스트 공부 with 파이썬 + 자바(추가로 자바 사용법공부) ]
     <li>[5.Jsp-and-Servlet :: Jsp와 Servlet 공부]
   </ul>
 </ol>
 - 🌱 I’m currently learning ... 
 <ul>
-<li>[3.python-coding :: 코딩테스트 공부 with 파이썬과 자바(추가로 자바 사용법공부) ]
+<li>[3.python-coding :: 코딩테스트 공부 with 파이썬 + 자바(추가로 자바 사용법공부) ]
 <li>[5.Jsp-and-Servlet :: Jsp와 Servlet 공부]
 </ul>
 - 💬 I want to be a backend developer. [저는 백엔드 개발자가 되고싶습니다]
