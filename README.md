@@ -1,5 +1,5 @@
-### Hi there 안녕하세요 😄 <!--👋-->
-
+### Hi there 안녕하세요
+### 백엔드 개발 공부 순서 및 목록입니다
 <ol type="1">
 <li>[1. opentutorials :: git 사용법공부 ]
 <li>[2. python-test :: 파이썬 사용법 공부 ]
