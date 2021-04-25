@@ -2,7 +2,7 @@
 ### 백엔드 개발 공부 목록입니다
 졸업작품으로 인증서버와 하둡을 활용한 회원그룹 파일드라이브 사이트 개발
 <ol type="1">
-<li>[0. Member-group-file-drive-site-using-certificate-server-and-Hadoop :: 졸업작품으로 인증서버와 하둡을 활용한 회원그룹 파일 드라이브 사이트 개발 ]
+<li>[0. Member-group-file-drive-site-using-certificate-server-and-Hadoop :: 졸업작품 ]
 <li>[1. opentutorials :: git 사용법공부 ]
 <li>[2. python-test :: 파이썬 사용법 공부 ]
 <li>[3.python-coding :: 코딩테스트 공부 with 파이썬 ]
