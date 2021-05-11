@@ -1,4 +1,4 @@
-### Hi there 안녕하세요
+### 안녕하세요
 ### 백엔드 개발 공부 목록입니다
 <ol type="1">
 <li>[0. Member-group-file-drive-site-using-certificate-server-and-Hadoop :: 졸업작품 ]
@@ -16,11 +16,15 @@
     <li>[3.python-coding :: 코딩테스트 공부 with 파이썬 + 자바(추가로 자바 사용법공부) ]
     <li>[5.Jsp-and-Servlet :: Jsp와 Servlet 공부]
   </ul>
+  <ul>
+    <li>[3.python-coding :: 코딩테스트 공부 with 파이썬 + 자바(추가로 자바 사용법공부) ]
+    <li>[5.Spring-1 :: Spring 공부]
+  </ul>
 </ol>
 - 🌱 I’m currently learning ... 
 <ul>
-<li>[3.python-coding :: 코딩테스트 공부 with 파이썬 + 자바(추가로 자바 사용법공부) ]
-<li>[5.Jsp-and-Servlet :: Jsp와 Servlet 공부]
+  <li>[3.python-coding :: 코딩테스트 공부 with 파이썬 + 자바(추가로 자바 사용법공부) ]
+  <li>[5.Spring-1 :: Spring 공부]
 </ul>
 - 💬 I want to be a backend developer. [저는 백엔드 개발자가 되고싶습니다]
 <!--
