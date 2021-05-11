@@ -16,10 +16,13 @@
     <li>[3.python-coding :: 코딩테스트 공부 with 파이썬 + 자바(추가로 자바 사용법공부) ]
     <li>[5.Jsp-and-Servlet :: Jsp와 Servlet 공부]
   </ul>
+</li>
+<li>
   <ul>
     <li>[3.python-coding :: 코딩테스트 공부 with 파이썬 + 자바(추가로 자바 사용법공부) ]
     <li>[5.Spring-1 :: Spring 공부]
   </ul>
+</li>
 </ol>
 - 🌱 I’m currently learning ... 
 <ul>
