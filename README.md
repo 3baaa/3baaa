@@ -18,9 +18,7 @@
   </ul>
 </li>
 <li>
-  <ul>
     <li>[6.Spring-1 :: Spring 공부]
-  </ul>
 </li>
 </ol>
 - 🌱 I’m currently learning ... 
