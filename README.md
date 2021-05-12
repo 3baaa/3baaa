@@ -17,9 +17,7 @@
     <li>[5.Jsp-and-Servlet :: Jsp와 Servlet 공부]
   </ul>
 </li>
-<li>
-    <li>[6.Spring-1 :: Spring 공부]
-</li>
+<li>[6.Spring-1 :: Spring 공부]</li>
 </ol>
 - 🌱 I’m currently learning ... 
 <ul>
