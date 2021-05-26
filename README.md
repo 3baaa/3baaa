@@ -18,10 +18,11 @@
   </ul>
 </li>
 <li>[6.Spring-1 :: Spring 공부]</li>
+<li>[7.freelec-springboot2-webservice :: SpringBoot 공부]</li>
 </ol>
 - 🌱 I’m currently learning ... 
 <ul>
-  <li>[6.Spring-1 :: Spring 공부]
+  <li>[7.freelec-springboot2-webservice :: SpringBoot 공부]</li>
 </ul>
 - 💬 I want to be a backend developer. [저는 백엔드 개발자가 되고싶습니다]
 <!--
