@@ -17,12 +17,13 @@
     <li>[5.Jsp-and-Servlet :: Jsp와 Servlet 공부]
   </ul>
 </li>
-<li>[6.Spring-1 :: Spring 공부]</li>
-<li>[7.freelec-springboot2-webservice :: SpringBoot 공부]</li>
+<li>[6.Spring-1 :: Spring 공부] - 3.python-coding 중단 </li>
+<li>[7.freelec-springboot2-webservice :: SpringBoot 공부] </li>
+<li>[8. JPA 공부:: 저작권관련 코드를 못올립니다] - 7.freelec-springboot2-webservice 중단 </li>
 </ol>
 - 🌱 I’m currently learning ... 
 <ul>
-  <li>[7.freelec-springboot2-webservice :: SpringBoot 공부]</li>
+  <li>[8. JPA 공부:: 저작권관련 코드를 못올립니다] - 7.freelec-springboot2-webservice 중단 </li>
 </ul>
 - 💬 I want to be a backend developer. [저는 백엔드 개발자가 되고싶습니다]
 <!--
