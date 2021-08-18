@@ -20,7 +20,7 @@
 <li>[6.Spring-1 :: Spring 공부] - 3.python-coding 중단 </li>
 <li>[7.freelec-springboot2-webservice :: SpringBoot 공부] </li>
 <li>[8. JPA 공부:: 저작권관련 코드를 못올립니다] - 7.freelec-springboot2-webservice 중단 </li>
-<li>[9. SpringBoot + JPA 공부:: 저작권관련 코드를 못올립니다]</li>
+<li>[9. SpringBoot + JPA 공부:: --------- ( 저작권관련 ) 코드를 못올립니다---------]</li>
 <li>[3.python-coding :: 코딩테스트 공부 with 자바]</li>
 </ol>
 - 🌱 I’m currently learning ... 
