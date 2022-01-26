@@ -40,7 +40,6 @@
 <ul>
   <li>[3.python-coding :: 코딩테스트 공부 with 자바]</li>
 </ul>
-- 💬 I want to be a backend developer. [저는 백엔드 개발자가 되고싶습니다]
 <!--
 **3baaa/3baaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
