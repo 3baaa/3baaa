@@ -36,10 +36,6 @@
 <li>[9. SpringBoot + JPA 공부:: --------- ( 저작권관련 ) 코드를 못올립니다 --------- ]</li>
 <li>[3.python-coding :: 코딩테스트 공부 with 자바]</li>
 </ol>
-- 🌱 I’m currently learning ... 
-<ul>
-  <li>[3.python-coding :: 코딩테스트 공부 with 자바]</li>
-</ul>
 <!--
 **3baaa/3baaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
