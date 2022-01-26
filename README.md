@@ -1,5 +1,3 @@
-<h3 align="center">I want to be a backend developer. [저는 백엔드 개발자가 되고싶습니다]</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3baaa&label=Profile%20views&color=0e75b6&style=flat" alt="3baaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3baaa" alt="3baaa" /></a> </p>
